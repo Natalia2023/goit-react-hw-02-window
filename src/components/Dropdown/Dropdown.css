@@ -1,0 +1,21 @@
+.Dropdown_menu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    padding: 20px;
+    text-align: center;
+    background-color: rgb(103, 202, 224);
+    color: white;
+  }
+  
+  .Dropdown {
+    position: relative;
+    width: 100%; /* Adjusted width to be 100% */
+    padding: 20px;
+    border: 1px solid blueviolet;
+  }
+
+  .Dropdown_tooggle {
+ 
+  }
