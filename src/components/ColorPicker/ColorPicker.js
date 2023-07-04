@@ -4,7 +4,7 @@ import './ColorPicker.css';
 class ColorPicker extends Component {
   state = {
     activeOptionsIndx: 0,
-  };
+  }; 
 
   setActiveIdx = (index) => {
     this.setState({ activeOptionsIndx: index });
